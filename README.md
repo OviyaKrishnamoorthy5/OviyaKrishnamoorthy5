@@ -1,66 +1,61 @@
-# Hi 👋 I'm Oviya Krishnamoorthy
+<h1 align="center">Hi 👋, I'm Oviya Krishnamoorthy</h1>
 
-## 💻 Software Developer | React Native Developer
-
-I specialize in building and maintaining cross-platform mobile applications using React Native, JavaScript, and TypeScript.  
-I enjoy debugging, solving application issues, and improving system stability in Agile environments.
+<h3 align="center">Software Developer | React Native | JavaScript | TypeScript</h3>
 
 ---
 
-## 🧠 Skills
-
-- React Native
-- JavaScript / TypeScript
-- REST APIs
-- SQL (MySQL / SQL Server)
-- Git & GitHub
-- Application Debugging & Support
-- CI/CD Basics (GitHub Actions, Azure DevOps)
+<p align="center">
+💻 Building mobile apps • Debugging systems • Improving performance  
+</p>
 
 ---
 
-## 💼 Experience
+## 🚀 About Me
 
-**React Native Developer – Plenome (IIT Madras)**  
-- Built and maintained mobile applications (iOS & Android)
-- Debugged and resolved 20+ application issues
-- Improved app stability and performance
-- Worked with REST APIs and backend integration
-- Used Git for version control and collaboration
+- 🔭 Working on React Native applications
+- 🛠️ Strong in debugging & application support
+- 🌱 Learning system design & backend basics
+- ⚡ Interested in scalable mobile apps & clean architecture
 
 ---
 
-## 🚀 Projects
+## 🧠 Tech Stack
 
-- CI/CD Pipeline Automation (GitHub Actions + Azure DevOps)
-- React Native Task Manager App (In Progress)
-- API Debugging & Testing Projects
+<p align="center">
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OviyaKrishnamoorthy5&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OviyaKrishnamoorthy5&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OviyaKrishnamoorthy5&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Contact
+## 📌 Featured Projects
 
-- Email: oviyakrishnamoorthy5520@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/)
+- 📱 React Native Task Manager
+- 🔧 CI/CD Pipeline (GitHub Actions)
+- 🐳 Dockerized App Deployment
 
+---
 
-<!--
-**OviyaKrishnamoorthy5/OviyaKrishnamoorthy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="mailto:oviyakrishnamoorthy5520@gmail.com">Email</a>
+</p>
