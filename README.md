@@ -127,15 +127,6 @@ Built basic CI/CD pipelines using GitHub Actions and Azure DevOps with Docker to
 
 ---
 
-## CODING PROFILES
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-7c3aed?style=for-the-badge)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2563eb?style=for-the-badge)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-4f46e5?style=for-the-badge)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7c3aed?style=for-the-badge)](#)
-
----
-
 ## GITHUB ANALYTICS
 
 <div align="center">
@@ -158,15 +149,6 @@ Built basic CI/CD pipelines using GitHub Actions and Azure DevOps with Docker to
 
 ---
 
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-![Snake animation](https://github.com/Oviya-krishnamoorthy/Oviya-krishnamoorthy/blob/output/github-snake.svg)
-
-</div>
-
----
 
 ## CURRENT FOCUS
 
