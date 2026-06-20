@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oviya Krishnamoorthy</h1>
+<h1 align="center">Hi, I'm Oviya Krishnamoorthy</h1>
 
 <h3 align="center">Software Developer | React Native | JavaScript | TypeScript</h3>
 
