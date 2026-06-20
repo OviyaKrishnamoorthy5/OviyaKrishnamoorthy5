@@ -1,61 +1,196 @@
-<h1 align="center">Hi, I'm Oviya Krishnamoorthy</h1>
+<div align="center">
 
-<h3 align="center">Software Developer | React Native | JavaScript | TypeScript</h3>
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:2563eb&height=180&section=header)
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Oviya+Krishnamoorthy;Software+Developer;React+Native+%7C+JavaScript+%7C+TypeScript;Frontend+%26+Mobile+Application+Development;API+Integration" />
 
-<p align="center">
-💻 Building mobile apps • Debugging systems • Improving performance  
-</p>
+<br/>
 
----
+![Education](https://img.shields.io/badge/MSc-Artificial_Intelligence-4f46e5?style=for-the-badge)
+![Education](https://img.shields.io/badge/BSc-Computer_Science-2563eb?style=for-the-badge)
+![Education](https://img.shields.io/badge/PGDM-Cloud_Computing-7c3aed?style=for-the-badge)
+![Location](https://img.shields.io/badge/Canada-Ontario-7c3aed?style=for-the-badge)
 
-## 🚀 About Me
+<br/>
 
-- 🔭 Working on React Native applications
-- 🛠️ Strong in debugging & application support
-- 🌱 Learning system design & backend basics
-- ⚡ Interested in scalable mobile apps & clean architecture
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Now-7c3aed?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge)](https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/?skipRedirect=true)
+[![Email](https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge)](mailto:oviyakrishnamoorthy5520@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-7c3aed?style=for-the-badge)](https://github.com/OviyaKrishnamoorthy5)
 
----
+<br/>
 
-## 🧠 Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=Oviya-krishnamoorthy&style=flat-square&color=7c3aed)
+![Followers](https://img.shields.io/github/followers/Oviya-krishnamoorthy?color=4f46e5&style=flat-square)
+![Stars](https://img.shields.io/github/stars/Oviya-krishnamoorthy?color=2563eb&style=flat-square)
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ABOUT
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OviyaKrishnamoorthy5&show_icons=true&theme=tokyonight" />
-</p>
+Software Developer focused on **frontend engineering, mobile application development, and API-driven systems**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OviyaKrishnamoorthy5&theme=tokyonight"/>
-</p>
+Experienced in building cross-platform applications using **React Native, JavaScript, and TypeScript**, with strong focus on UI development, debugging, and performance optimization.
 
----
+Passionate about building clean, scalable, and user-friendly applications with real-world impact.
 
-## 📌 Featured Projects
-
-- 📱 React Native Task Manager
-- 🔧 CI/CD Pipeline (GitHub Actions)
-- 🐳 Dockerized App Deployment
+Open To:
+- Frontend Developer Roles
+- React Native Developer Roles
+- Software Engineering Internships
+- Application Support / Junior Developer Roles
 
 ---
 
-## 📫 Connect With Me
+## TECH STACK
 
-<p align="center">
-<a href="mailto:oviyakrishnamoorthy5520@gmail.com">Email</a>
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/HTML5-4f46e5?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3)
+
+### Frontend & Mobile
+![React Native](https://img.shields.io/badge/React_Native-2563eb?style=for-the-badge&logo=react)
+
+### Backend & Data
+![REST API](https://img.shields.io/badge/REST_API-4f46e5?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-7c3aed?style=for-the-badge&logo=mysql)
+![JSON](https://img.shields.io/badge/JSON-2563eb?style=for-the-badge)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-4f46e5?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VSCode-7c3aed?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-2563eb?style=for-the-badge)
+
+---
+
+## EXPERIENCE
+
+**React Native Developer** — Plenome, IIT Madras  
+2022 – 2023
+
+- Built and maintained cross-platform mobile applications using React Native and TypeScript
+- Worked in Agile teams with sprint-based development cycles
+- Integrated REST APIs and fixed backend communication issues
+- Improved app stability by debugging and resolving production issues
+- Enhanced UI performance and responsiveness
+- Used Git for version control and collaborative development
+- Participated in code reviews and improved code quality
+
+**Skills:** React Native · TypeScript · JavaScript · REST API · Git · Debugging · UI Optimization
+
+---
+
+## PROJECTS
+
+<details>
+<summary><b>CI/CD Pipeline Automation (Academic Project)</b></summary>
+
+<br/>
+
+| Stack | Type | Outcome |
+|------|------|--------|
+| GitHub Actions, Azure DevOps, Docker | Automation | Learned CI/CD workflows |
+
+**Description:**  
+Built basic CI/CD pipelines using GitHub Actions and Azure DevOps with Docker to understand deployment automation and DevOps workflows.
+
+</details>
+
+---
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+| Area | Impact |
+|------|--------|
+| App Stability | Reduced crashes by 30% |
+| Productivity | Improved team efficiency by 20% |
+| Debugging | Fixed 20+ production issues |
+
+</div>
+
+---
+
+## CERTIFICATIONS
+
+- AWS Cloud Computing Basics  
+- Oracle SQL Fundamentals  
+- UI/UX & Web Design (HTML, CSS)  
+- SQL Server Basics (Udemy)
+
+---
+
+## CODING PROFILES
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-7c3aed?style=for-the-badge)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2563eb?style=for-the-badge)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-4f46e5?style=for-the-badge)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7c3aed?style=for-the-badge)](#)
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oviya-krishnamoorthy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oviya-krishnamoorthy&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oviya-krishnamoorthy&theme=tokyo-night)
+
+</div>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+![Snake animation](https://github.com/Oviya-krishnamoorthy/Oviya-krishnamoorthy/blob/output/github-snake.svg)
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
+Learning:
+  - React Native Advanced Concepts
+  - JavaScript Deep Fundamentals
+  - API Integration & Debugging
+  - UI Performance Optimization
+
+Building:
+  - Mobile Applications
+  - Frontend UI Projects
+  - Portfolio Projects
+
+Exploring:
+  - Full Stack Development Basics
+  - Database Design (SQL)
+  - System Design Fundamentals
+```
+<!-- <div align="center">
+✨ Thank you for visiting my profile
+
+“Clean code. Real impact. Continuous learning.”
+
+<br/>
+</div>  -->
